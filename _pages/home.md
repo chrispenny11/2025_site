@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: 
-hidden: true
+permalink: ""
+hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/IMG_6486.jpg
